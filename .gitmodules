@@ -25,3 +25,6 @@
 [submodule "contracts"]
 	path = contracts
 	url = https://github.com/balena-io/contracts.git
+[submodule "layers/meta-bsp-imx6"]
+	path = layers/meta-bsp-imx6
+	url = git@github.com:compulab-yokneam/meta-bsp-imx6.git
