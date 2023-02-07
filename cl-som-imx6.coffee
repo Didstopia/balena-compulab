@@ -13,7 +13,7 @@ module.exports =
         version: 1
         slug: 'cl-som-imx6'
         name: 'Compulab i.MX6'
-        arch: 'armv7hf'
+        arch: 'cortexa9hf-neon'
         state: 'released'
         private: false
  

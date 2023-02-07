@@ -15,7 +15,7 @@ module.exports =
         version: 1
         slug: 'utilite-pro'
         name: 'Utilite Pro'
-        arch: 'armv7hf'
+        arch: 'cortexa9hf-neon'
         state: 'new'
         private: false
  
