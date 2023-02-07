@@ -24,7 +24,7 @@ module.exports =
                 instructions.ETCHER_SD
                 instructions.EJECT_SD
                 instructions.FLASHER_WARNING
-                CL_SOM_MX8_FLASH
+                CL_SOM_MX6_FLASH
         ].concat(postProvisioningInstructions)
 
         gettingStartedLink:
